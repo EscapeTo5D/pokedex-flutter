@@ -6,7 +6,9 @@
       "mcp__context7__resolve-library-id",
       "WebSearch",
       "Bash(fvm:*)",
-      "Bash(flutter:*)"
+      "Bash(flutter:*)",
+      "Read(//c/Users/smith/fvm/versions/3.35.7/**)",
+      "Bash(./flutter.bat:*)"
     ],
     "deny": [],
     "ask": []
