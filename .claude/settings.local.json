@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__web-search-prime__webSearchPrime",
+      "Bash(flutter doctor:*)",
+      "mcp__context7__resolve-library-id",
+      "WebSearch",
+      "Bash(fvm:*)",
+      "Bash(flutter:*)",
+      "Read(//c/Users/smith/fvm/versions/3.35.7/**)",
+      "Bash(./flutter.bat:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
