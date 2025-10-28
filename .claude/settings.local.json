@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "mcp__web-search-prime__webSearchPrime",
-      "Bash(flutter doctor:*)"
+      "Bash(flutter doctor:*)",
+      "mcp__context7__resolve-library-id",
+      "WebSearch",
+      "Bash(fvm:*)",
+      "Bash(flutter:*)"
     ],
     "deny": [],
     "ask": []
